@@ -46,6 +46,8 @@ public void retirar (double cantidad)
     {
         dSaldo = dSaldo - cantidad;
         System.out.println("Saldo Restante: " + dSaldo);
+         System.out.println("Saldo Restante: " + dSaldo);
+          System.out.println("Saldo Restante: " + dSaldo);
     }
 }
 }
